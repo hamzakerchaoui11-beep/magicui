@@ -9,10 +9,10 @@
   --color-muted: #27272a;
   --color-muted-foreground: #a1a1aa;
   --color-border: #27272a;
-  --color-accent: #6366f1;
+  --color-accent: #ec4899;
   --color-accent-foreground: #ffffff;
   --color-card: #18181b;
   --color-card-foreground: #fafafa;
 
-  --radius: 0.75rem;
+  --radius: 1rem;
 }

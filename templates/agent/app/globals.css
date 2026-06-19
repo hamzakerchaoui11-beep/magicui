@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: "Inter", "Inter Fallback";
+  --font-mono: "JetBrains Mono", monospace;
+
+  --color-background: #030712;
+  --color-foreground: #f9fafb;
+  --color-muted: #1f2937;
+  --color-muted-foreground: #9ca3af;
+  --color-border: #1f2937;
+  --color-accent: #a855f7;
+  --color-accent-foreground: #faf5ff;
+  --color-card: #111827;
+  --color-card-foreground: #f9fafb;
+
+  --radius: 0.75rem;
+}
